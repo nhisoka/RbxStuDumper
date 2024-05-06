@@ -4,7 +4,7 @@ RbxStuDumper is a dumper made for roblox studio to update [StudioExecutor](https
 
 ## Installation
 
-The project and its libraries were all intended (and compiled) with the v143 platform toolset; you will need to install the latest version of Visual Studio 2022 to compile the project.
+The project and its libraries were all intended (and compiled) with the v143 platform toolset. You will need to install the latest version of Visual Studio 2022 to compile the project.
 
 ## Usage
 
